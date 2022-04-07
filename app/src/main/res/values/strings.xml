@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alex brightcove app</string>
+
+    <!-- A sample Brightcove Edge Account ID -->
+    <string name="account">6302597822001</string>
+
+    <!-- A sample Brightcove Edge Policy Key -->
+    <string name="policy">BCpkADawqM3pqnjvPISJuh2MhEvMSzuoEnjgxDBCgrpxmuFThK5c8wZTxSvNB9ECrObd914271Hnc0YDKOrTPoqwi4jc0OiflKJo0LrupWy8X1CW-C5KkoSFJ__S-7V1YgeTCo-DsJz5C1Hn</string>
+
+    <!-- A sample Brightcove Video ID -->
+    <string name="videoId">6302979570001</string>
+
+    <!-- A sample Brightcove Playlist ID -->
+    <string name="playlistId">1729296081618959554</string>
+
+</resources>
